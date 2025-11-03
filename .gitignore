@@ -208,3 +208,6 @@ __marimo__/
 
 # Misc notebooks
 lc.ipynb
+
+# GPT-2 downloaded model weights from Kaggle
+notebooks/gpt2
